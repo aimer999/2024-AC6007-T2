@@ -1,5 +1,5 @@
-from flask import Flask
-from flash import render_template,request
+from Flask import Flask
+from Flask import render_template,request
 
 app = Flask(__name__)
 
